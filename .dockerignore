@@ -1,0 +1,17 @@
+## basic 
+.env
+.bundle
+.ruby-version
+
+.git
+.gitignore
+
+.dockerignore
+
+log
+tmp
+
+## bundle install --path vendor/bundle 対策
+vendor/bundle
+
+## custom
